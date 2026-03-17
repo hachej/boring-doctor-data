@@ -1,6 +1,6 @@
 # Rapport Patient — herr Bro
 
-**Date :** 17/03/2026
+**Date :** 17/03/2026  
 **Médecin :** Dr Ju Hurault
 
 ---
@@ -40,6 +40,7 @@ Non renseigné
 Découverte il y a 15 jours d'une IRC avec DFG < 30 ml/min/1,73m² par le médecin traitant chez un patient diabétique type 2 traité par antidiabétiques oraux et prenant des AINS dans le cadre de lombalgies chroniques.
 
 Dans ce contexte, le médecin traitant a modifié la prise en charge thérapeutique :
+
 - Switch du traitement antidiabétique oral vers un protocole insulinique
 - Arrêt des AINS
 
@@ -55,12 +56,12 @@ Dernière HbA1c : 7,1% en 07/2025 (équilibre glycémique satisfaisant antérieu
 
 ## CONSTANTES
 
-GSC : Non renseigné
-TA : Non renseigné
-fC : Non renseigné
-SaO2 : Non renseigné
-T° : Non renseigné
-Gly : Non renseigné
+GSC : Non renseigné  
+TA : Non renseigné  
+fC : Non renseigné  
+SaO2 : Non renseigné  
+T° : Non renseigné  
+Gly : Non renseigné  
 fR : Non renseigné
 
 ## INTERROGATOIRE
