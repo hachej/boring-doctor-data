@@ -18,3 +18,6 @@ not pused ?
 
 **19:22** Ju Hurault:
 hi
+
+**20:37** Ju Hurault:
+patient has 40 degree fiber...
