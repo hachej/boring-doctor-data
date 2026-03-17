@@ -11,3 +11,7 @@ hi
 **11:42** Ju Hurault:
 [voice transcription]
 1, 2, 3, check, check, check, check.
+
+**13:44** Ju Hurault:
+[voice transcription]
+C'est un test.
