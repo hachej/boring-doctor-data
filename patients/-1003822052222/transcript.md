@@ -4,3 +4,6 @@
 
 **13:53** Ju Hurault:
 /start@boring_doc_bot patient
+
+**13:54** Ju Hurault:
+/start@boring_doc_bot
