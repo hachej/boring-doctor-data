@@ -8,3 +8,6 @@ retry
 **13:48** Ju Hurault:
 [voice transcription]
 Hello, how are you doing? I'm really good, thank you.
+
+**13:49** Ju Hurault:
+[document: documents/image.png]
