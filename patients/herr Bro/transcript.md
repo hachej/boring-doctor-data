@@ -9,3 +9,6 @@ HISTOIRE :
 - Consulte au SAU dans ce contexte et MT en vacances.
 - Dernier HbA1 : 7.1% en 07/2025
 - A commencé un suivi néphrologique dans ce contexte à l'HPGN.
+
+**16:15** Ju Hurault:
+not pused ?
