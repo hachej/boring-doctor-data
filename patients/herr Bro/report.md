@@ -60,7 +60,7 @@ GSC : Non renseigné
 TA : Non renseigné  
 fC : Non renseigné  
 SaO2 : Non renseigné  
-T° : Non renseigné  
+T° : **40°C**  
 Gly : Non renseigné  
 fR : Non renseigné
 

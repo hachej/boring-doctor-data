@@ -21,3 +21,12 @@ hi
 
 **20:37** Ju Hurault:
 patient has 40 degree fiber...
+
+**21:02** Ju Hurault:
+patient has 40 degree fiber...
+
+**21:02** Ju Hurault:
+recap updated ?
+
+**21:02** Ju Hurault:
+pushed?
