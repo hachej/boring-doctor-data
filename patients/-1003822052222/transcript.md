@@ -7,3 +7,6 @@
 
 **13:54** Ju Hurault:
 /start@boring_doc_bot
+
+**13:54** Ju Hurault:
+/start@boring_doc_bot
