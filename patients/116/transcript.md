@@ -112,3 +112,6 @@ Prise en charge suggérée
 Mesures générales : suivi nutritionnel avec diététicienne spécialisée bariatrique, fractionner les apports (6 petits repas/jour), éviter boissons gazeuses et aliments gras/épicés, correction des carences avant symptômes
 Traitement pharmacologique : supplémentation martiale, vitamine B12 (injection IM 1000 µg/mois prophylactique post-sleeve), vitamine D + calcium, acide folique, antispasmodiques si persistance des douleurs
 Traitement spécifique : exploration gastroscopique complète (prévue 16/12), adaptation du régime selon résultats, réévaluation psychologique pour anorexie post-opératoire (TCA persistant vs dépression post-bariatrique)
+
+**20:37** Jerome:
+D'abord, un résumé clinique, système par système, c'est-à-dire organes par organes, plus la biologie et une conclusion qui prend tout en compte, et ensuite qui me sort l'hypothèse principale diagnostic qui effectivement un syndrome d'un Ping ou un ulcère gastrique (mais si il n'en fait pas référence en même temps, je lui demander que un des diagnostics hypothèse principal) et ensuite ça découle tout ce que j'ai besoin de rechercher ce que j'ai oublié, mais de façon plus détail clinique biologique et ensuite ce scénographique. Juste la prise en charge qui est un peu bateau.
