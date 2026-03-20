@@ -10,3 +10,6 @@
 
 **16:39** Jerome:
 Écris la synthèse médicale complete
+
+**16:43** Ju Hurault:
+Retr6
